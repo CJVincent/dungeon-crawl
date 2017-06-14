@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.io.*;
 /**
- * Along with Vampire, the strongest enemy, focused on endurance.
+ * Along with Beholder, the strongest enemy, focused on endurance.
  */
 public class Vampire extends Enemy
 {
